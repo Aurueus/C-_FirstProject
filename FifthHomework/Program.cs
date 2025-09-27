@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Runtime.InteropServices;
-using System.Security.Cryptography.X509Certificates;
 
 namespace Test_Project
 {
@@ -350,6 +349,8 @@ namespace Test_Project
             //10) Frequency of Elements
             Console.WriteLine("Frequency of elements:");
             Frequency(arr);
+
+            //Middle-Level Array & Loop Exercises (C#)
 
             //1) Array Rotation
             Console.WriteLine("Rotate Left by 2:");
