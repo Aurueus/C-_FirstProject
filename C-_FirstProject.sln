@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EighthHomework", "EighthHom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nine", "Nine\Nine.csproj", "{F92C828F-2D41-446A-A46F-8CFBC779C35B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ten", "ten\ten.csproj", "{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{F92C828F-2D41-446A-A46F-8CFBC779C35B}.Release|x64.Build.0 = Release|Any CPU
 		{F92C828F-2D41-446A-A46F-8CFBC779C35B}.Release|x86.ActiveCfg = Release|Any CPU
 		{F92C828F-2D41-446A-A46F-8CFBC779C35B}.Release|x86.Build.0 = Release|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Debug|x64.Build.0 = Debug|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Release|x64.ActiveCfg = Release|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Release|x64.Build.0 = Release|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{A177FDD4-ECFF-4ECA-A2E1-21DE89E0C1DE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
